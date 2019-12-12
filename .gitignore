@@ -8,3 +8,21 @@
 Student Roster.*
 Roster.png
 descriptives.R
+/Lectures/**/*.R
+/Lectures/**/*.Rmd
+/Lectures/**/*.css
+/Lectures/**/*.txt
+/Lectures/**/Img
+/Lectures/**/02_intro_cache
+/Lectures/**702_intro_files
+/Laboratories/**/*.R
+/Laboratories/**/*.Rmd
+/Laboratories/**/*.css
+/Laboratories/**/laboratory_7_cache
+/Laboratories/**/laboratory_7_files
+/Laboratories/**/laboratory_4_cache
+/Laboratories/**/laboratory_4_files
+/Laboratories/**/rsconnect
+*.aux
+*.log
+*.synctex.gz
